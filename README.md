@@ -1,7 +1,7 @@
 <h1> Challenge Amigo Secreto</h1>
-<em>🎅 Aplicación Java para Amigo Secreto</em>
--🎁 Introducción
-¡Bienvenido a la Aplicación Java para Amigo Secreto! Este proyecto está diseñado para automatizar el sorteo del Amigo Secreto, asignando aleatoriamente participantes sin permitir que alguien se asigne a sí mismo.
+<h2>🎅 Aplicación Java para Amigo Secreto</h2>
+<h3>🎁 Introducción</h3>
+<p>¡Bienvenido a la Aplicación Java para Amigo Secreto! Este proyecto está diseñado para automatizar el sorteo del Amigo Secreto, asignando aleatoriamente participantes sin permitir que alguien se asigne a sí mismo.</p>
 
 Esta aplicación en Java ofrece:
 ✅ Asignación aleatoria de participantes 🎲
@@ -11,9 +11,9 @@ Esta aplicación en Java ofrece:
 Ya sea para familia, oficina o eventos comunitarios, esta aplicación hace que el sorteo sea justo y divertido. 🎄-
 
 
-<em>🎅 Secret Santa Java Application</em>
-🎁 Introduction
-Welcome to the Secret Santa Java Application! This project is designed to automate the Secret Santa gift exchange process by randomly assigning participants to each other while ensuring no one is assigned to themselves.
+<h2>🎅 Secret Santa Java Application</h2>
+<h3>🎁 Introduction</h3>
+<p>Welcome to the Secret Santa Java Application! This project is designed to automate the Secret Santa gift exchange process by randomly assigning participants to each other while ensuring no one is assigned to themselves.</p>
 
 This Java-based application provides:
 ✅ Randomized participant pairings 🎲
